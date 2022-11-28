@@ -1,5 +1,6 @@
-Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.
+# Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.
 ![python](https://user-images.githubusercontent.com/109989332/204363513-b87680fa-ab58-4811-9c26-e76196a889d1.gif)
+&nb&nb&nb&nb&nb&nb&nb&nb&nb&nb&nb&nb
 There are several reasons people who use Python would rather not use anything else.\
 Take alook at this simple loops:
 ![while loop](https://user-images.githubusercontent.com/109989332/204363184-eaa3dcd7-02b4-4d69-957b-c07901f28a9a.gif)
