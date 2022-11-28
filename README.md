@@ -10,5 +10,5 @@ Take alook at this simple loops:
 # Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages.
 ![TanVerifiableKangaroo-max-1mb](https://user-images.githubusercontent.com/109989332/204363977-9fdcd6f5-a946-43e3-9d27-1f80033c8389.gif)
 ---------------------------------------------------------------------------------------------------------
-# Python somtimes can be a headache figuring what the problem is and debugging it
+# Python sometimes can be a headache figuring out what the problem is and debugging it
 ![butters](https://user-images.githubusercontent.com/109989332/204364256-037134d3-c571-4745-b159-6aa41d844f31.gif)
